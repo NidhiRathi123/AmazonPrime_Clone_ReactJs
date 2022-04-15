@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AmazonPrime_Clone_ReactJs/static/css/main.f6ac3ec9.chunk.css",
+    "main.js": "/AmazonPrime_Clone_ReactJs/static/js/main.01de79cd.chunk.js",
+    "main.js.map": "/AmazonPrime_Clone_ReactJs/static/js/main.01de79cd.chunk.js.map",
+    "runtime-main.js": "/AmazonPrime_Clone_ReactJs/static/js/runtime-main.cb05f7b1.js",
+    "runtime-main.js.map": "/AmazonPrime_Clone_ReactJs/static/js/runtime-main.cb05f7b1.js.map",
+    "static/js/2.2b079a66.chunk.js": "/AmazonPrime_Clone_ReactJs/static/js/2.2b079a66.chunk.js",
+    "static/js/2.2b079a66.chunk.js.map": "/AmazonPrime_Clone_ReactJs/static/js/2.2b079a66.chunk.js.map",
+    "index.html": "/AmazonPrime_Clone_ReactJs/index.html",
+    "precache-manifest.8273fd46db991aa67a13bb546a026eea.js": "/AmazonPrime_Clone_ReactJs/precache-manifest.8273fd46db991aa67a13bb546a026eea.js",
+    "service-worker.js": "/AmazonPrime_Clone_ReactJs/service-worker.js",
+    "static/css/main.f6ac3ec9.chunk.css.map": "/AmazonPrime_Clone_ReactJs/static/css/main.f6ac3ec9.chunk.css.map",
+    "static/js/2.2b079a66.chunk.js.LICENSE.txt": "/AmazonPrime_Clone_ReactJs/static/js/2.2b079a66.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb05f7b1.js",
+    "static/js/2.2b079a66.chunk.js",
+    "static/css/main.f6ac3ec9.chunk.css",
+    "static/js/main.01de79cd.chunk.js"
+  ]
+}
